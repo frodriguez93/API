@@ -1,0 +1,4 @@
+C:\Users\Félix Rodríguez A\source\repos\API_DTE\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.csprojAssemblyReference.cache
+C:\Users\Félix Rodríguez A\source\repos\API_DTE\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.csproj.CoreCompileInputs.cache
+C:\Users\Félix Rodríguez A\source\repos\API_DTE\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.AssemblyInfoInputs.cache
+C:\Users\Félix Rodríguez A\source\repos\API_DTE\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.AssemblyInfo.cs
